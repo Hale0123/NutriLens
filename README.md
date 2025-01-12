@@ -19,8 +19,7 @@ NutriLens is a web-based application that uses AI to analyze food items in image
 
 ## **Contributors**
 
-- **Your Name**: Developer
-- **Collaborators**: Additional contributors (if any)
+- **Prashanta Kandel, Harold Le, Irfan Shahid**: Developer
 
 ## **Demo**
 
